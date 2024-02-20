@@ -1,0 +1,14 @@
+C:\Users\Alfa User\Documents\orientacao-a-objetos\Orientação a Objetos\bin\Debug\net8.0\Orientação a Objetos.exe
+C:\Users\Alfa User\Documents\orientacao-a-objetos\Orientação a Objetos\bin\Debug\net8.0\Orientação a Objetos.deps.json
+C:\Users\Alfa User\Documents\orientacao-a-objetos\Orientação a Objetos\bin\Debug\net8.0\Orientação a Objetos.runtimeconfig.json
+C:\Users\Alfa User\Documents\orientacao-a-objetos\Orientação a Objetos\bin\Debug\net8.0\Orientação a Objetos.dll
+C:\Users\Alfa User\Documents\orientacao-a-objetos\Orientação a Objetos\bin\Debug\net8.0\Orientação a Objetos.pdb
+C:\Users\Alfa User\Documents\orientacao-a-objetos\Orientação a Objetos\obj\Debug\net8.0\Orientação a Objetos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alfa User\Documents\orientacao-a-objetos\Orientação a Objetos\obj\Debug\net8.0\Orientação a Objetos.AssemblyInfoInputs.cache
+C:\Users\Alfa User\Documents\orientacao-a-objetos\Orientação a Objetos\obj\Debug\net8.0\Orientação a Objetos.AssemblyInfo.cs
+C:\Users\Alfa User\Documents\orientacao-a-objetos\Orientação a Objetos\obj\Debug\net8.0\Orientação a Objetos.csproj.CoreCompileInputs.cache
+C:\Users\Alfa User\Documents\orientacao-a-objetos\Orientação a Objetos\obj\Debug\net8.0\Orientação a Objetos.dll
+C:\Users\Alfa User\Documents\orientacao-a-objetos\Orientação a Objetos\obj\Debug\net8.0\refint\Orientação a Objetos.dll
+C:\Users\Alfa User\Documents\orientacao-a-objetos\Orientação a Objetos\obj\Debug\net8.0\Orientação a Objetos.pdb
+C:\Users\Alfa User\Documents\orientacao-a-objetos\Orientação a Objetos\obj\Debug\net8.0\Orientação a Objetos.genruntimeconfig.cache
+C:\Users\Alfa User\Documents\orientacao-a-objetos\Orientação a Objetos\obj\Debug\net8.0\ref\Orientação a Objetos.dll

@@ -1,0 +1,14 @@
+C:\Users\Alfa User\Documents\orientacao-a-objetos\Desafio Conta Bancária\obj\Debug\net8.0\Desafio Conta Bancária.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alfa User\Documents\orientacao-a-objetos\Desafio Conta Bancária\obj\Debug\net8.0\Desafio Conta Bancária.AssemblyInfoInputs.cache
+C:\Users\Alfa User\Documents\orientacao-a-objetos\Desafio Conta Bancária\obj\Debug\net8.0\Desafio Conta Bancária.AssemblyInfo.cs
+C:\Users\Alfa User\Documents\orientacao-a-objetos\Desafio Conta Bancária\obj\Debug\net8.0\Desafio Conta Bancária.csproj.CoreCompileInputs.cache
+C:\Users\Alfa User\Documents\orientacao-a-objetos\Desafio Conta Bancária\bin\Debug\net8.0\Desafio Conta Bancária.exe
+C:\Users\Alfa User\Documents\orientacao-a-objetos\Desafio Conta Bancária\bin\Debug\net8.0\Desafio Conta Bancária.deps.json
+C:\Users\Alfa User\Documents\orientacao-a-objetos\Desafio Conta Bancária\bin\Debug\net8.0\Desafio Conta Bancária.runtimeconfig.json
+C:\Users\Alfa User\Documents\orientacao-a-objetos\Desafio Conta Bancária\bin\Debug\net8.0\Desafio Conta Bancária.dll
+C:\Users\Alfa User\Documents\orientacao-a-objetos\Desafio Conta Bancária\bin\Debug\net8.0\Desafio Conta Bancária.pdb
+C:\Users\Alfa User\Documents\orientacao-a-objetos\Desafio Conta Bancária\obj\Debug\net8.0\Desafio Conta Bancária.dll
+C:\Users\Alfa User\Documents\orientacao-a-objetos\Desafio Conta Bancária\obj\Debug\net8.0\refint\Desafio Conta Bancária.dll
+C:\Users\Alfa User\Documents\orientacao-a-objetos\Desafio Conta Bancária\obj\Debug\net8.0\Desafio Conta Bancária.pdb
+C:\Users\Alfa User\Documents\orientacao-a-objetos\Desafio Conta Bancária\obj\Debug\net8.0\Desafio Conta Bancária.genruntimeconfig.cache
+C:\Users\Alfa User\Documents\orientacao-a-objetos\Desafio Conta Bancária\obj\Debug\net8.0\ref\Desafio Conta Bancária.dll
