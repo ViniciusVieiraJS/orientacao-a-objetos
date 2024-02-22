@@ -1,0 +1,15 @@
+C:\Users\Alfa User\Documents\orientacao-a-objetos\DesafioJogo\bin\Debug\net8.0\DesafioJogo.exe
+C:\Users\Alfa User\Documents\orientacao-a-objetos\DesafioJogo\bin\Debug\net8.0\DesafioJogo.deps.json
+C:\Users\Alfa User\Documents\orientacao-a-objetos\DesafioJogo\bin\Debug\net8.0\DesafioJogo.runtimeconfig.json
+C:\Users\Alfa User\Documents\orientacao-a-objetos\DesafioJogo\bin\Debug\net8.0\DesafioJogo.dll
+C:\Users\Alfa User\Documents\orientacao-a-objetos\DesafioJogo\bin\Debug\net8.0\DesafioJogo.pdb
+C:\Users\Alfa User\Documents\orientacao-a-objetos\DesafioJogo\obj\Debug\net8.0\DesafioJogo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alfa User\Documents\orientacao-a-objetos\DesafioJogo\obj\Debug\net8.0\DesafioJogo.AssemblyInfoInputs.cache
+C:\Users\Alfa User\Documents\orientacao-a-objetos\DesafioJogo\obj\Debug\net8.0\DesafioJogo.AssemblyInfo.cs
+C:\Users\Alfa User\Documents\orientacao-a-objetos\DesafioJogo\obj\Debug\net8.0\DesafioJogo.csproj.CoreCompileInputs.cache
+C:\Users\Alfa User\Documents\orientacao-a-objetos\DesafioJogo\obj\Debug\net8.0\DesafioJogo.sourcelink.json
+C:\Users\Alfa User\Documents\orientacao-a-objetos\DesafioJogo\obj\Debug\net8.0\DesafioJogo.dll
+C:\Users\Alfa User\Documents\orientacao-a-objetos\DesafioJogo\obj\Debug\net8.0\refint\DesafioJogo.dll
+C:\Users\Alfa User\Documents\orientacao-a-objetos\DesafioJogo\obj\Debug\net8.0\DesafioJogo.pdb
+C:\Users\Alfa User\Documents\orientacao-a-objetos\DesafioJogo\obj\Debug\net8.0\DesafioJogo.genruntimeconfig.cache
+C:\Users\Alfa User\Documents\orientacao-a-objetos\DesafioJogo\obj\Debug\net8.0\ref\DesafioJogo.dll

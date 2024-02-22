@@ -2,9 +2,14 @@
 
 class Musica
 {
+    public Musica(Banda artista, string nome) //argumento do tipo banda
+    {
+        Artista = artista;
+        Nome = nome;
+    }
 // deixar public para que o Program.cs possa usar esses atributos
-    public string Nome { get; set; }
-    public string Artista { get; set; } 
+    public string Nome { get; }
+    public Banda Artista { get; } 
     public int Duracao {  get; set; }   
     public bool Disponivel {  get; set; }
     // propriedade SOMENTE LEITURA (get) você utiliza lambda "=>"
@@ -17,7 +22,7 @@ class Musica
     public void ExibirFichaTecnica()
     {
         Console.WriteLine($"Nome: {Nome}");
-        Console.WriteLine($"Artista: {Artista}");
+        Console.WriteLine($"Artista: {Artista.Nome}");
         Console.WriteLine($"Duração: {Duracao}");
         if (Disponivel)
         {

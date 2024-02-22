@@ -12,3 +12,4 @@ C:\Users\Alfa User\Documents\orientacao-a-objetos\Desafio Conta Bancária\obj\De
 C:\Users\Alfa User\Documents\orientacao-a-objetos\Desafio Conta Bancária\obj\Debug\net8.0\Desafio Conta Bancária.pdb
 C:\Users\Alfa User\Documents\orientacao-a-objetos\Desafio Conta Bancária\obj\Debug\net8.0\Desafio Conta Bancária.genruntimeconfig.cache
 C:\Users\Alfa User\Documents\orientacao-a-objetos\Desafio Conta Bancária\obj\Debug\net8.0\ref\Desafio Conta Bancária.dll
+C:\Users\Alfa User\Documents\orientacao-a-objetos\Desafio Conta Bancária\obj\Debug\net8.0\Desafio Conta Bancária.sourcelink.json

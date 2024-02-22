@@ -24,6 +24,4 @@ Console.WriteLine(product.DetalheEstoque);
 
 car.ExibirInformacoes();
 
-Soma sum = new Soma();
-Console.WriteLine(sum.Somar);
 
